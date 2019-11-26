@@ -1,0 +1,116 @@
+h1 {
+    color: rgb(96, 125, 146);
+    font-size:xx-large;
+    background-color: rgb(35, 47, 70);
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 75px;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-image: url("see.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-color: black;
+}
+
+.button {
+    text-decoration: none;
+    background-color: brown;
+    padding: 20px;
+    color: crimson;
+    margin: 30px;
+    border-radius: 20px;
+}
+
+.button:hover {
+    background-color: orangered;
+    color: crimson
+}
+#container
+
+p1 {
+    color: silver;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: silver;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p2 {
+    color: silver;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+nav ul li a {
+    text-align: center;
+}
+li {
+    font-size: 20px;
+    text-align: left;
+    color: silver;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul li a {
+    text-align: center;
+    font-size: 20px;
+    text-align: left;
+    color: silver;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: silver;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color: silver;
+    opacity: 0.4;
+    border-radius: 20px;
+    width: 200px;
+}
+
+nav ul li {
+    float: inline-start;
+    opacity: 0.7;
+    background-color: skyblue;
+    border-radius: 20px;
+}
+
+nav ul li a {
+    display: block;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    margin: 10px;
+    text-decoration: none;
+    color: steelblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav ul li a:hover {
+    display: block;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 158, 46);
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(255, 234, 211);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
